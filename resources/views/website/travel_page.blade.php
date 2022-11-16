@@ -281,7 +281,7 @@
                 1, 2018 Distance in property description is calculated using ©
                 OpenStreetMap
             </p>
-            <div class="row mb-6 mt-5">
+            <div class="row mb-4 mt-5">
                 <div class="swiper mySwiper tourist radius-20">
                     <div class="swiper-wrapper radius-20">
                         <div class="swiper-slide">
@@ -295,7 +295,7 @@
                 </div>
             </div>
         </section>
-        <section class="row mb-6">
+        <section class="row mb-5">
             <h2 class="fw-bold mb-1 text-capitalize text-center">
                 5 reasons to choose Magic World Sharm - Club by Jaz
             </h2>
@@ -303,24 +303,24 @@
                 Located in Sharm El Sheikh, a 2-minute walk from Nabq Bay Beach,
                 Magic World Sharm - Club by Jaz
             </p>
-            <div class="d-flex align-items-center mt-4 col-20 col-6">
+            <div class="d-flex align-items-center mt-4 col-20 col-12 col-md-6">
                 <i class="fa-solid fa-wallet fs-2 bg-yellow yellow p-3 radius-10"></i>
                 <i class=""></i>
                 <p class="light fs-6 ms-4 m-0">Prices you can't beat!</p>
             </div>
-            <div class="d-flex align-items-center mt-4 col-20 col-6">
+            <div class="d-flex align-items-center mt-4 col-20 col-12 col-md-6">
                 <i class="fa-solid fa-lock fs-2 bg-yellow yellow p-3 radius-10"></i>
                 <p class="light fs-6 ms-4 m-0">Booking is safe</p>
             </div>
-            <div class="d-flex align-items-center mt-4 col-20 col-6">
+            <div class="d-flex align-items-center mt-4 col-20 col-12 col-md-6">
                 <i class="fa-solid fa-laptop fs-2 bg-yellow yellow p-3 radius-10"></i>
                 <p class="light fs-6 ms-4 m-0">Manage your bookings online</p>
             </div>
-            <div class="d-flex align-items-center mt-4 col-20 col-6">
+            <div class="d-flex align-items-center mt-4 col-20 col-12 col-md-6">
                 <i class="fa-solid fa-headset fs-2 bg-yellow yellow p-3 radius-10"></i>
                 <p class="light fs-6 ms-4 m-0">The staff speaks English</p>
             </div>
-            <div class="d-flex align-items-center mt-4 col-20 col-6">
+            <div class="d-flex align-items-center mt-4 col-20 col-12 col-md-6">
                 <i class="fa-solid fa-headset fs-2 bg-yellow yellow p-3 radius-10"></i>
                 <p class="light fs-6 ms-4 m-0">Great location and facilities</p>
             </div>
@@ -501,7 +501,7 @@
             </section>
             <section class="mb-6 justify-content-between align-items-center">
                 <div>
-                    <button class="btn see ms-3" style="height: fit-content; width: 8rem; float: right">
+                    <button class="btn see ms-3" style="height: fit-content;  float: right">
                         see all
                     </button>
                     <h2 class="fw-bold mb-1 text-capitalize">our clients opinions.</h2>
@@ -512,54 +512,22 @@
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="card-review radius-20 shadow p-4 mb-4">
-                            <div class="d-flex justify-content-between align-items-center">
+                            <div class="d-flex justify-content-between align-items-center flex-wrap">
                                 <div class="d-flex align-items-center">
-                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt=""
-                                        style="height: 3.5rem" />
-                                    <div class="ms-3">
-                                        <h6 class="m-0 fs-7 text-secondary fw-600">Mike taylor</h6>
-                                        <p class="fs-8 m-0">Lahore, Pakistan</p>
-                                    </div>
-                                </div>
-                                <p class="fs-8 fw-600">
-                                    Good
-                                    <span class="yellow">
-                                        <i class="fa-solid fa-star fs-8 yellow"></i>
-                                        <i class="fa-solid fa-star fs-8 yellow"></i>
-                                        <i class="fa-solid fa-star fs-8 yellow"></i>
-                                    </span>
-                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i
-                                        class="fa-solid fa-star fs-8 secandry-light"></i>
-                                </p>
-                            </div>
-                            <p class="fs-8 mt-2 mb-0">
-                                On the Windows talking painted pasture yet its express parties
-                                use. Sure last upon he same as knew next. Of believed or
-                                diverted no. “On the Windows talking painted p Sure last upon
-                                he same as knew next.”
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="card-review radius-20 shadow p-4 mb-4">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div class="d-flex align-items-center">
-                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt=""
-                                        style="height: 3.5rem" />
+                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt="" style="height: 3.5rem">
                                     <div class="ms-3">
                                         <h6 class="m-0 fs-7 fw-600 text-secondary">Mike taylor</h6>
                                         <p class="fs-8 m-0">Lahore, Pakistan</p>
                                     </div>
                                 </div>
-                                <p class="fs-8 fw-600">
+                                <p class="fs-8 fw-600 mb-0 ms-2 mt-2">
                                     Good
                                     <span class="yellow">
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                     </span>
-                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i
-                                        class="fa-solid fa-star fs-8 secandry-light"></i>
+                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i class="fa-solid fa-star fs-8 secandry-light"></i>
                                 </p>
                             </div>
                             <p class="fs-8 mt-2 mb-0">
@@ -572,24 +540,22 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="card-review radius-20 shadow p-4 mb-4">
-                            <div class="d-flex justify-content-between align-items-center">
+                            <div class="d-flex justify-content-between align-items-center flex-wrap">
                                 <div class="d-flex align-items-center">
-                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt=""
-                                        style="height: 3.5rem" />
+                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt="" style="height: 3.5rem">
                                     <div class="ms-3">
-                                        <h6 class="m-0 fs-7 text-secondary fw-600">Mike taylor</h6>
+                                        <h6 class="m-0 fs-7 fw-600 text-secondary">Mike taylor</h6>
                                         <p class="fs-8 m-0">Lahore, Pakistan</p>
                                     </div>
                                 </div>
-                                <p class="fs-8 fw-600">
+                                <p class="fs-8 fw-600 mb-0 ms-2 mt-2">
                                     Good
                                     <span class="yellow">
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                     </span>
-                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i
-                                        class="fa-solid fa-star fs-8 secandry-light"></i>
+                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i class="fa-solid fa-star fs-8 secandry-light"></i>
                                 </p>
                             </div>
                             <p class="fs-8 mt-2 mb-0">
@@ -602,24 +568,50 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="card-review radius-20 shadow p-4 mb-4">
-                            <div class="d-flex justify-content-between align-items-center">
+                            <div class="d-flex justify-content-between align-items-center flex-wrap">
                                 <div class="d-flex align-items-center">
-                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt=""
-                                        style="height: 3.5rem" />
+                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt="" style="height: 3.5rem">
                                     <div class="ms-3">
-                                        <h6 class="m-0 fs-7 text-secondary fw-600">Mike taylor</h6>
+                                        <h6 class="m-0 fs-7 fw-600 text-secondary">Mike taylor</h6>
                                         <p class="fs-8 m-0">Lahore, Pakistan</p>
                                     </div>
                                 </div>
-                                <p class="fs-8 fw-600">
+                                <p class="fs-8 fw-600 mb-0 ms-2 mt-2">
                                     Good
                                     <span class="yellow">
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                         <i class="fa-solid fa-star fs-8 yellow"></i>
                                     </span>
-                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i
-                                        class="fa-solid fa-star fs-8 secandry-light"></i>
+                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i class="fa-solid fa-star fs-8 secandry-light"></i>
+                                </p>
+                            </div>
+                            <p class="fs-8 mt-2 mb-0">
+                                On the Windows talking painted pasture yet its express parties
+                                use. Sure last upon he same as knew next. Of believed or
+                                diverted no. “On the Windows talking painted p Sure last upon
+                                he same as knew next.”
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="card-review radius-20 shadow p-4 mb-4">
+                            <div class="d-flex justify-content-between align-items-center flex-wrap">
+                                <div class="d-flex align-items-center">
+                                    <img src="images/pexels-3586798.png" class="rounded-circle" alt="" style="height: 3.5rem">
+                                    <div class="ms-3">
+                                        <h6 class="m-0 fs-7 fw-600 text-secondary">Mike taylor</h6>
+                                        <p class="fs-8 m-0">Lahore, Pakistan</p>
+                                    </div>
+                                </div>
+                                <p class="fs-8 fw-600 mb-0 ms-2 mt-2">
+                                    Good
+                                    <span class="yellow">
+                                        <i class="fa-solid fa-star fs-8 yellow"></i>
+                                        <i class="fa-solid fa-star fs-8 yellow"></i>
+                                        <i class="fa-solid fa-star fs-8 yellow"></i>
+                                    </span>
+                                    <i class="fa-solid fa-star fs-8 secandry-light"></i><i class="fa-solid fa-star fs-8 secandry-light"></i>
                                 </p>
                             </div>
                             <p class="fs-8 mt-2 mb-0">

@@ -3,7 +3,7 @@
 @endsection
 @section('content')
     <div class="row p-3 pt-0 mt-5">
-        <div class="d-flex justify-content-evenly justify-content-lg-between align-items-center shadow mb-3 p-3 radius-20">
+        <div class="d-flex justify-content-evenly justify-content-lg-between align-items-center shadow mb-3 p-3 radius-20 flex-wrap">
             <div class="d-flex align-items-center">
                 <img src="images/slide1.png" class="rounded-circle me-3 mb-2" width="50px" height="50px" alt="" />
                 <div class="m-2">
@@ -23,7 +23,7 @@
                 </button>
             </div>
         </div>
-        <div class="d-flex justify-content-evenly justify-content-lg-between align-items-center shadow mb-3 p-3 radius-20">
+        <div class="d-flex justify-content-evenly justify-content-lg-between align-items-center shadow mb-3 p-3 radius-20 flex-wrap">
             <div class="d-flex align-items-center">
                 <img src="images/slide1.png" class="rounded-circle me-3 mb-2" width="50px" height="50px"
                     alt="" />
@@ -45,7 +45,7 @@
             </div>
         </div>
         <div
-            class="d-flex justify-content-evenly justify-content-lg-between align-items-center shadow mb-3 p-3 radius-20 unread">
+            class="d-flex justify-content-evenly justify-content-lg-between align-items-center shadow mb-3 p-3 radius-20 unread flex-wrap">
             <div class="d-flex align-items-center">
                 <img src="images/slide1.png" class="rounded-circle me-3 mb-2" width="50px" height="50px"
                     alt="" />

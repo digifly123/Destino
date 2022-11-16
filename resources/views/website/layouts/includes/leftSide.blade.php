@@ -36,7 +36,7 @@
             <div class="offcanvas-body overflow-hidden">
                 <ul class="p-0 dashboard-menu">
                     <li class="active-page mt-0" onclick="dodajAktywne(this)">
-                        <a href=""class="gray"><img class="me-2" src="images/Icon-material-dashboard.svg"
+                        <a href="#"class="gray"><img class="me-2" src="images/Icon-material-dashboard.svg"
                                 alt="" />
                             Dashboard</a>
                     </li>
@@ -85,11 +85,11 @@
         </div>
     </div>
 
-    <div class="dashboard-menu d-none d-xl-block">
+    <div class="dashboard-menu d-none d-xl-block mt-3">
         <a href=""><img src="images/Logo.png" alt="" /></a>
         <ul class="p-0 w-80">
-            <li class="active-page" onclick="dodajAktywne(this)">
-                <a href="" class="gray"><img class="me-2" src="images/Icon-material-dashboard.svg"
+            <li class="active-page mt-3" onclick="dodajAktywne(this)">
+                <a href="#" class="gray"><img class="me-2" src="images/Icon-material-dashboard.svg"
                         alt="" />Dashboard</a>
             </li>
             <li onclick="dodajAktywne(this)">

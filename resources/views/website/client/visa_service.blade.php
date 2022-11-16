@@ -5,7 +5,7 @@
     <div class="row p-3 pt-0">
 
         <div class="banner-2 radius-20">
-            <div class="w-70 float-end pt-4">
+            <div class="w-70 float-end pt-3">
                 <h2 class="fw-bold ">you need visa to order from destino</h2>
                 <p class=" fs-8">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     Lorem Ipsum has been the industry's standard dummy text </p>

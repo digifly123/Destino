@@ -23,9 +23,9 @@
                 welcome back and discover the world
             </p>
         </div>
-        <button class="pt-2 pb-2 see-all" style="float: left">
+        <a class="pt-2 pb-2 see-all text-center" style="float: left">
             see all
-        </button>
+        </a>
     </div>
     <div class="row">
 

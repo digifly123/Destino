@@ -8,7 +8,7 @@
             <header>
                 @include('website.layouts.includes.topbar')
                 <!-- hero section  -->
-                <div class="col-12 col-lg-6 col-xl-6 col-xxl-4 pt-5">
+                <div class="col-12 col-lg-6 col-xl-6 col-xxl-4 pt-4">
                     <h1 class="fw-bold mb-3 text-capitalize">
                         Destino enjoy a full service online travel
                     </h1>
@@ -763,7 +763,7 @@
             <div class="col-12 col-lg-6 position-relative mb-4 d-service">
                 <img src="images/man.png" alt="" class=" w-100 radius-20">
                 <div class="col-12  p-5 position-absolute radius-20 top-0 back-blur bottom-0  ">
-                    <h1 class="fw-bold m-0 text-capitalize">disables travel. </h1>
+                    <h1 class="fw-bold m-0 text-capitalize text-light">disables travel. </h1>
                     <p>Lorem ipsum dolor, sit amet concing cupiditateihil.</p>
                     <button class="btn">Book Now</button>
                     <button class="btn btn-more">Learn More</button>
@@ -772,7 +772,7 @@
             <div class="col-12 col-lg-6 position-relative mb-4 d-service">
                 <img src="images/nouba.png" alt="" class=" w-100 radius-20">
                 <div class="col-12  p-5 position-absolute radius-20 top-0 back-blur bottom-0">
-                    <h1 class="fw-bold m-0 text-capitalize">Nuba travel.</h1>
+                    <h1 class="fw-bold m-0 text-capitalize text-light">Nuba travel.</h1>
                     <p>Lorem ipsum dolor, sit amet concing cupiditateihil.</p>
                     <button class="btn">Book Now</button>
                     <button class="btn btn-more">Learn More</button>
@@ -782,7 +782,7 @@
 
         <!-- --------reviews------------ -->
         <section class=" row mt-5 radius-20" style="background-color: #F7F9FF; ">
-            <div class="col-12 col-lg-4 p-5">
+            <div class="col-12 col-xl-4 p-5">
                 <div class="img d-flex justify-content-between">
                     <img src="images/pexels-3586798.png" class="rounded-circle" alt="" style="height: 5rem;">
                     <img src="images/pexels-3586798.png" class="rounded-circle" alt="" style="height: 3rem;">
@@ -791,7 +791,7 @@
                 <h1 class="fw-600  fs-0 m-0 text-capitalize align-items-center mt-5">What people say about Us.</h1>
                 <p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus. </p>
             </div>
-            <div class="col-12 offset-lg-3 p-5 col-lg-5 d-flex align-items-center  ">
+            <div class="col-12 offset-xl-3 p-5 col-xl-5 d-flex align-items-center  ">
                 <div class="swiper mySwiper swiper-review d-flex justify-content-center align-items-center p-3">
                     <div class="swiper-wrapper">
 

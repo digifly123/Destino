@@ -71,7 +71,7 @@
                             <button type="button" class="btn-close" data-bs-dismiss="offcanvas"
                                 aria-label="Close"></button>
                         </div>
-                        <div class="offcanvas-body">
+                        <div class="offcanvas-body p-0">
                             <div class="card">
                                 <div class="d-flex justify-content-between align-items-center ps-3 pe-3">
                                     <div>
@@ -117,7 +117,7 @@
                                     </fieldset>
                                 </div>
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between mt-3 mb-3 ps=3 pe-3">
+                                <div class="d-flex justify-content-between mt-3 mb-3 ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">duration</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -159,7 +159,7 @@
                                 </div>
 
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between">
+                                <div class="d-flex justify-content-between  ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">rooms</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -175,7 +175,7 @@
                                     </select>
                                 </div>
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between">
+                                <div class="d-flex justify-content-between  ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">district</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -191,7 +191,7 @@
                                     </select>
                                 </div>
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between">
+                                <div class="d-flex justify-content-between  ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">hotel</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>

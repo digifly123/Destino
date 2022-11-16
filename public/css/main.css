@@ -171,7 +171,7 @@ a.nav-link:hover {
     margin: auto;
 }
 .back-blur {
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), transparent);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), transparent);
     /* background: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent); */
 }
 .bg-blur {
@@ -223,7 +223,7 @@ a.nav-link {
     color: var(--basic);
     background-color: transparent;
     padding: 1rem 1.1rem;
-    width: 7rem;
+    min-width: 6rem;
     font-size: 0.8rem;
 }
 .select-btn {
@@ -268,15 +268,12 @@ a.nav-link {
     color: #faa81a !important;
     background-color: transparent !important;
     border: 1px solid #faa81a;
-    /* padding-top: .7rem ;
-  padding-bottom: .7rem ; */
 }
-
 .search-form input {
     outline: none;
-    padding-left: 2rem;
+    padding-left: 2.1rem;
+    font-size: .9rem;
 }
-
 .search-form input:focus::placeholder,
 input.form-control:focus::placeholder {
     color: #fff;
@@ -421,7 +418,7 @@ li.burger-menu {
 }
 
 .header {
-    height: 95vh;
+    height: 900px;
     background-image: url("../images/slide.png");
     background-position: bottom;
     background-repeat: no-repeat;
@@ -434,8 +431,6 @@ li.burger-menu {
     background: none;
     width: 60px;
     height: 80px;
-    /* width: 60px;
-    height: 80px; */
     top: 0;
     right: 15px;
     -webkit-transition: width 0.3s ease, height 0.4s ease;
@@ -613,7 +608,7 @@ a.nav-link {
 }
 
 .Explore-btn {
-    right: 14px;
+    right: 10px;
     top: 10px;
 }
 
@@ -1110,7 +1105,10 @@ footer li a {
     li.nav-item.dropdown.me-2 {
         position: absolute;
         top: 3.2rem;
-        right: 5rem;
+        right: 4rem;
+    }
+    .burger{
+        right: -15px;
     }
 
     .left-nav .nav-item .nav-link.Login {
@@ -1132,7 +1130,12 @@ footer li a {
 
 @media only screen and (max-width: 650px) {
     .header {
-        height: 75vh;
+        height: 600px;
+    }
+    .navbar-brand img{
+        margin-top: 22px;
+        /* width: 95%; */
+        width: 120px;
     }
     .d-service {
         padding: 0;
@@ -1154,7 +1157,7 @@ footer li a {
         margin-bottom: 0.8rem !important;
     }
     .banner-2 div {
-        width: 72% !important;
+        width: 75% !important;
     }
     .ballon .swiper-slide .col-12 p {
         font-size: 0.8rem !important;
@@ -1170,6 +1173,23 @@ footer li a {
         right: -5% !important;
         bottom: 21% !important;
         padding: 1rem 0.8rem;
+    }
+    .banner-4 div {
+        /* float: left !important; */
+        width: 73% !important;
+        padding-top: 1rem !important;
+    }
+}
+@media only screen and (min-width: 651px) and (max-width: 1010px){
+    .header {
+        height: 620px;
+    }
+    /* .search-form{
+        width: 60%;
+    }   */
+    .banner-4 div {
+        /* float: left !important; */
+        width: 62% !important;
     }
 }
 @media only screen and (min-width: 1530px) {
@@ -1187,14 +1207,13 @@ footer li a {
 }
 
 @media only screen and (max-width: 1445px) {
-    .banner-4 div {
-        /* float: left !important; */
-        width: 62% !important;
-    }
-    .banner div,
-    .banner-5 div {
-        /* float: left !important;  */
+   
+    .banner div {
         width: 58% !important;
+        padding-top: 2rem !important;
+    }
+    .banner-5 div{
+        width: 80% !important;
         padding-top: 2rem !important;
     }
 }
@@ -1215,17 +1234,14 @@ footer li a {
 .cursor {
     cursor: pointer;
 }
-
 .mini-photo {
     width: 160px;
 }
-
 /* Position the "next button" to the right */
 .next {
     left: 69%;
     border-radius: 3px 0 0 3px;
 }
-
 .demo {
     opacity: 0.6;
     width: 100%;
@@ -1372,10 +1388,10 @@ footer li a {
     color: #bbbfcb;
 }
 .btn-next {
-    width: 8rem;
+    min-width: 6rem;
     background-color: var(--btncolor);
     padding: 1rem 1.1rem !important;
-    width: 10rem;
+    /* width: 10rem; */
     border: 1px solid var(--btncolor);
     font-size: 0.8rem;
 }

@@ -183,7 +183,7 @@
                                     </fieldset>
                                 </div>
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between mt-3 mb-3 ps=3 pe-3">
+                                <div class="d-flex justify-content-between mt-3 mb-3 ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">duration</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -225,7 +225,7 @@
                                 </div>
 
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between">
+                                <div class="d-flex justify-content-between ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">rooms</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -241,7 +241,7 @@
                                     </select>
                                 </div>
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between">
+                                <div class="d-flex justify-content-between ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">district</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -257,7 +257,7 @@
                                     </select>
                                 </div>
                                 <hr class="m-3 secandry-light">
-                                <div class="d-flex justify-content-between">
+                                <div class="d-flex justify-content-between ps-3 pe-3">
                                     <button class="accordion text-capitalize is-open">hotel</button>
                                     <button class="clear fs-7 text-secondary">clear</button>
                                 </div>
@@ -416,7 +416,7 @@
                 </div>
                 <div class="col-12 col-xl-8 col-xxl-9">
                     <div class="row">
-                        <div class="col-12 col-md-6 col-lg-6 col-xl-4 mb-4">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-4 mb-4 ">
                             <div class="card-product radius-20 shadow position-relative p-3">
                                 <div class="position-absolute icon-product mt-2 ms-2">
                                     <i class="fa-solid fa-plane-up"></i>

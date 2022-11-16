@@ -32,7 +32,7 @@
                         <img class="rounded-circle z-index-2" src="images/slide1.png" alt="" />
                     </div>
                     <h2 class="fs-6 text-capitalize fw-bold">island trips</h2>
-                    <p class="fs-8 gray">
+                    <p class="fs-8 gray mb-0">
 
                         Singapore, officially the Republic of Singapore, is a
                         sovereign
@@ -52,7 +52,7 @@
                         <img class="rounded-circle z-index-2" src="images/slide1.png" alt="" />
                     </div>
                     <h2 class="fs-6 text-capitalize fw-bold">island trips</h2>
-                    <p class="fs-8 gray">
+                    <p class="fs-8 gray mb-0">
                         Singapore, officially the Republic of Singapore, is a
                         sovereign
                     </p>
@@ -71,7 +71,7 @@
                         <img class="rounded-circle z-index-2" src="images/slide1.png" alt="" />
                     </div>
                     <h2 class="fs-6 text-capitalize fw-bold">island trips</h2>
-                    <p class="fs-8 gray">
+                    <p class="fs-8 gray mb-0">
                         Singapore, officially the Republic of Singapore, is a
                         sovereign
                     </p>
@@ -85,14 +85,14 @@
             </h2>
             <p class="fs-7 gray">welcome back and discover the world</p>
             <div class="position-relative p-3 radius-20 shadow rate-2 mb-2">
-                <div class="d-flex">
+                <div class="d-flex flex-wrap flex-md-nowrap">
                     <img class="radius-10" src="images/slide1.png" alt="" />
                     <div class="ms-2 mt-2">
                         <div class="float-end blue  fs-5 rate-image position-absolute me-2 mt-3">
                             $440
                         </div>
                         <h2 class="fs-6 text-capitalize fw-bold">island trips</h2>
-                        <p class="fs-8 gray">
+                        <p class="fs-8 gray mb-0">
                             Singapore, officially the Republic of Singapore, is a
                             sovereign
                         </p>
@@ -110,14 +110,14 @@
                 </div>
             </div>
             <div class="position-relative p-3 radius-20 shadow rate-2 mb-2">
-                <div class="d-flex">
+                <div class="d-flex flex-wrap flex-md-nowrap">
                     <img class="radius-10" src="images/slide1.png" alt="" />
                     <div class="ms-2 mt-2">
                         <div class="float-end blue  fs-5 rate-image position-absolute me-2 mt-3">
                             $440
                         </div>
                         <h1 class="fs-6 text-capitalize fw-bold">island trips</h1>
-                        <p class="fs-8 gray">
+                        <p class="fs-8 gray mb-0">
                             Singapore, officially the Republic of Singapore, is a
                             sovereign
                         </p>
@@ -135,14 +135,14 @@
                 </div>
             </div>
             <div class="position-relative p-3 radius-20 shadow rate-2 mb-2">
-                <div class="d-flex">
+                <div class="d-flex flex-wrap flex-md-nowrap">
                     <img class="radius-10" src="images/slide1.png" alt="" />
                     <div class="ms-2 mt-2">
                         <div class="float-end blue  fs-5 rate-image position-absolute me-2 mt-3">
                             $440
                         </div>
                         <h1 class="fs-6 text-capitalize fw-bold">island trips</h1>
-                        <p class="fs-8 gray">
+                        <p class="fs-8 gray mb-0">
                             Singapore, officially the Republic of Singapore, is a
                             sovereign
                         </p>
@@ -160,14 +160,14 @@
                 </div>
             </div>
             <div class="position-relative p-3 radius-20 shadow rate-2 mb-2">
-                <div class="d-flex">
+                <div class="d-flex flex-wrap flex-md-nowrap">
                     <img class="radius-10" src="images/slide1.png" alt="" />
                     <div class="ms-2 mt-2">
                         <div class="float-end blue  fs-5 rate-image position-absolute me-2 mt-3">
                             $440
                         </div>
                         <h1 class="fs-6 text-capitalize fw-bold">island trips</h1>
-                        <p class="fs-8 gray">
+                        <p class="fs-8 gray mb-0">
                             Singapore, officially the Republic of Singapore, is a
                             sovereign
                         </p>

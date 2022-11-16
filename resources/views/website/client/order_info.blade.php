@@ -18,7 +18,7 @@
 
                 <p class="fs-7 gray">welcome back and discover the world</p>
             </div>
-            <div class="d-flex step">
+            <div class="d-flex step flex-wrap">
                 <div class="d-flex me-5" id="step-1">
                     <i class="fa-solid fa-info text-light radius-10"></i>
                     <div class="ms-2">
